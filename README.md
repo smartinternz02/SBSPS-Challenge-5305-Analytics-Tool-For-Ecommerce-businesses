@@ -1,4 +1,4 @@
 Analytics-Tool-For-Ecommerce-businesses
-Team name: analytix
-Members: Aarushi Gupta
-IBM Hack Challenge 
+(Team analytix)
+(Members: Aarushi Gupta)
+(IBM Hack Challenge) 
